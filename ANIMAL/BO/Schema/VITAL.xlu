@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DataBase Name="VITAL">
+  <Rules>
+    <TableName Prefix="VITAL_" CharCase="Upper" MaxLength="50" />
+    <ColumnName CharCase="Upper" MaxLength="50" PrimaryKeyName="ID" PrimaryKeyLabel="ID" DefaultFieldName="Name" DefaultFieldLabel="Name" />
+    <ProjectType WPF="False" />
+    <SqlServer UseNvarchar="True" DisablePrintStatements="False" UseWinAuthOverSqlLogin="False" RoleNameRule="0" CustomRoleName="" />
+  </Rules>
+  <Tables>
+    <Table Name="VTL_RACE" ClassName="Race" Label="Race" Comment="Race de l'animal" OldNames="~temp636305691817553145,VITAL_RACE">
+      <Columns>
+        <Column Name="VTL_RACE_ID" Type="Integer" Precision="10" Auto="true" PrimaryKey="true" Label="ID" PropertyName="ID" Comment="ID" />
+        <Column Name="VTL_RACE_NOM" Type="String" MaxLength="50" AllowNull="false" Label="Nom" PropertyName="Nom" Comment="Nom" />
+      </Columns>
+      <Relations />
+    </Table>
+  </Tables>
+</DataBase>

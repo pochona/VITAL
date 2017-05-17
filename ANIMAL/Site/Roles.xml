@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Liste des rôles définis dans l'application
+-->
+<Profiles>
+    <!-- Le roles doivent être séparés par une virgule -->
+    <ADM roles="Usr" />
+</Profiles>

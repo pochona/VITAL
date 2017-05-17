@@ -1,0 +1,3 @@
+C:\Users\Nolwenn PILLARD\Documents\ANIMAL\Site\obj\Debug\VITAL.vbprojResolveAssemblyReference.cache
+C:\Users\Nolwenn PILLARD\Documents\ANIMAL\Site\obj\Debug\VITAL.Resources.resources
+C:\Users\Nolwenn PILLARD\Documents\ANIMAL\Site\obj\Debug\VITAL.vbproj.GenerateResource.Cache
